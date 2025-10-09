@@ -14,30 +14,28 @@ Este proyecto usa solo librerías estándar de Python. No requiere instalación 
 ```bash
 python main.py         # Para jugar en consola
 python puzzle_gui.py   # Para jugar con interfaz gráfica
+```
+---
 
 🧠 Lógica del juego
 El tablero se genera aleatoriamente sin repetir fichas.
 
-Solo se puede mover una ficha si está adyacente al espacio vacío.
+Sólo es posible mover una ficha si está adyacente al espacio vacío.
 
 La lógica usa coordenadas simuladas (x, y) para validar movimientos.
 
-🛠️ Estructura del proyectoy
-main.py: Juego en consola
+🛠️ Estructura del proyecto 
+- main.py: Juego en consola
+- puzzle_gui.py: Juego con interfaz gráfica
+- puzzle.py: Lógica del tablero
+- utils/display.py: Visualización en consola
+- requirements.txt: Dependencias (vacío por ahora)
 
-puzzle_gui.py: Juego con interfaz gráfica
-
-puzzle.py: Lógica del tablero
-
-utils/display.py: Visualización en consola
-
-requirements.txt: Dependencias (vacío por ahora)
-
-🚀 Próximas mejoras
+## 🚀 Próximas mejoras
 Consulta la tabla de planificación incluida para ver las funcionalidades pendientes.
 
-👤 Autor
-Aurelio González Salinas Aspirante a Data Scientist | Experiencia Consltoría moral
+## 👤 Autor
+Aurelio González Salinas | Data Scientist | Experiencia Consultoría moral
 
 ---
 
