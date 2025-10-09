@@ -1,0 +1,6 @@
+# No se requieren librerías externas para la versión actual
+# Tkinter viene incluido en la mayoría de instalaciones de Python
+
+# Si decides agregar Flask o Kivy más adelante, podrías actualizarlo así:
+# flask>=2.0
+# kivy>=2.2
