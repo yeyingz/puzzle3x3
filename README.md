@@ -2,7 +2,7 @@
 
 Rompecabezas 3x3 en Python Este proyecto recrea el clásico juego de rompecabezas deslizante 3x3, desarrollado originalmente en Visual Basic y ahora modernizado con Python. Incluye una versión en consola y una interfaz gráfica con Tkinter.
 
-El objetivo es ordenar las fichas del 1 al 8 dejando el espacio vacío en la esquina inferior derecha, moviendo solo fichas adyacentes al espacio libre (Este proyecto demuestra habilidades en lógica algorítmica, estructuras de datos, programación orientada a objetos y diseño de interfaces gráficas).
+El objetivo es ordenar las fichas del 1 al 8 dejando el espacio vacío en la esquina inferior derecha, moviendo sólo fichas adyacentes al espacio libre (Este proyecto demuestra habilidades en lógica algorítmica, estructuras de datos, programación orientada a objetos y diseño de interfaces gráficas).
 
 - 🎮 **Consola**: Usa comandos de texto para mover las fichas.
 - 🖱️ **Interfaz gráfica (Tkinter)**: Haz clic en las fichas para moverlas.
