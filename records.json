@@ -1,0 +1,24 @@
+{
+    "3": {
+        "best_time": 17,
+        "best_moves": 16,
+        "history": [
+            {
+                "time": 17,
+                "moves": 16
+            },
+            {
+                "time": 78,
+                "moves": 75
+            },
+            {
+                "time": 152,
+                "moves": 161
+            },
+            {
+                "time": 174,
+                "moves": 119
+            }
+        ]
+    }
+}

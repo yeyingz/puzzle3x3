@@ -1,0 +1,75 @@
+/* ================================
+   TEMA RETRO CRT PARA TEXTUAL
+   ================================ */
+
+Screen {
+    background: #001100;
+    color: #00ff66;
+}
+
+/* Título del menú */
+.title {
+    text-align: center;
+    color: #00ff99;
+    padding: 2;
+}
+
+/* Botones del menú */
+Button {
+    border: round #00aa55;
+    background: #091709;
+    color: #00ff66;
+    padding: 1 2;
+    margin: 1 0;
+}
+
+Button:hover {
+    background: #004400;
+    color: #00ffaa;
+}
+
+/* Widget del puzzle */
+PuzzleWidget {
+    border: round #00aa55;
+    padding: 2;
+    margin: 2;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    height: auto;
+    min-height: 10;
+}
+
+/* Panel lateral de estadísticas */
+StatsWidget {
+    border: round #007744;
+    padding: 2;
+    margin: 2;
+    width: 30%;
+    height: auto;
+    align-horizontal: right;
+    text-align: left;
+}
+
+/* Widget de victoria */
+VictoryWidget {
+    border: round #00ff66;
+    padding: 3;
+    margin: 2;
+    text-align: center;
+    background: #002200;
+    color: #00ff99;
+}
+
+.records-box {
+    padding: 2;
+    border: round yellow;
+    background: #202020;
+    color: #e0e0e0;
+}
+
+.back-button {
+    margin-top: 2;
+    width: 30;
+    align: center middle;
+}

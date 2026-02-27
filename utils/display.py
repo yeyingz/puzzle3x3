@@ -57,7 +57,7 @@ class Display:
             formatted_row = []
             for cell in row:
                 if cell == " ":
-                    colored = f"{Colors.YELLOW} ⬜ {Colors.RESET}"
+                    colored = f"{Colors.YELLOW}⬜{Colors.RESET}"
                 else:
                     colored = f"{Colors.GREEN}{str(cell).rjust(2)}{Colors.RESET}"
                 formatted_row.append(colored)
